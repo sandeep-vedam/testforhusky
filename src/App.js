@@ -56,6 +56,8 @@ export default class App extends Lightning.Component {
   _init() {
 console.log('Sandeep')
 console.error('Sandeep Error')
+console.log('Sandeep')
+console.error('Sandeep Error')
     this.tag('Background')
       .animation({
         duration: 15,
