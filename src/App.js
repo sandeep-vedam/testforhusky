@@ -58,6 +58,9 @@ console.log('Sandeep')
 console.error('Sandeep Error')
 console.log('Sandeep')
 console.error('Sandeep Error')
+console.log("Log a debug level message.")
+console.warn("Log a warn level message.")
+console.error("Log an error level message.")
     this.tag('Background')
       .animation({
         duration: 15,
